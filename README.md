@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @kevink07
 - 👀 I’m interested in Coding, and gaming
 - 🌱 I’m currently learning python, and HTML
-- 📫 How to reach me: kevink0704@outlook.com, Subject: GC (Github coding)
